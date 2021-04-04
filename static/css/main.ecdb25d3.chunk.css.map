@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CAClB,SAGC,iBAAkB,CACnB,OAGC,WAAY","file":"main.ecdb25d3.chunk.css","sourcesContent":[".margin {\n  margin-left: 10px;\n}\n\n.mainBox {\n  text-align: center;\n}\n\n.denus {\n  width: 150px;\n\n}"]}
